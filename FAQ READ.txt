@@ -1,1 +1,0 @@
-1st. you have cloned repo files. You have empty repo. You must connect the two. One way to do is by creating the git cloine based on that repo bUT REMOVE FILES TO SAFE PLACE FIRST. THEN ADD AND COMMIT THEM AND PUSH THEM THIS MIGHT WORK. MAKE SURE GITHUB IS LINKING TO YOUR REPO AND NOT WHERE YOU GOT THE FILES FROM. GOOD LUCK!!!
