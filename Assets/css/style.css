@@ -51,6 +51,7 @@ textarea{
   background-color: #ff6961;
   color: white;
 }
+/* ADD A CLASS CALLED '.upcoming' OR '.soon' for tasks coming within the next hour and apply a background color of yellow in a lighter shade */
 
 .future {
   background-color: #77dd77;
@@ -63,6 +64,13 @@ textarea{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+}
+
+.saveBtnIns {
+  background-color: #06AED5;
+  color: white;
+  border: none;
+  
 }
 
 .saveBtn i:hover {
